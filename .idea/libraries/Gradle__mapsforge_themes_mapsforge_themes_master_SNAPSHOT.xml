@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: mapsforge-themes.mapsforge-themes-master-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../mapsforge-themes/build/libs/mapsforge-themes-master-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

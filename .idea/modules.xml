@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../mapsforge-core/mapsforge-core.iml" filepath="$PROJECT_DIR$/../mapsforge-core/mapsforge-core.iml" group="mapsforge-master/mapsforge-core" />
+      <module fileurl="file://$PROJECT_DIR$/../mapsforge-map/mapsforge-map.iml" filepath="$PROJECT_DIR$/../mapsforge-map/mapsforge-map.iml" group="mapsforge-master/mapsforge-map" />
+      <module fileurl="file://$PROJECT_DIR$/../mapsforge-map-android/mapsforge-map-android.iml" filepath="$PROJECT_DIR$/../mapsforge-map-android/mapsforge-map-android.iml" group="mapsforge-master/mapsforge-map-android" />
+      <module fileurl="file://$PROJECT_DIR$/../mapsforge-map-awt/mapsforge-map-awt.iml" filepath="$PROJECT_DIR$/../mapsforge-map-awt/mapsforge-map-awt.iml" group="mapsforge-master/mapsforge-map-awt" />
+      <module fileurl="file://$PROJECT_DIR$/../mapsforge-map-reader/mapsforge-map-reader.iml" filepath="$PROJECT_DIR$/../mapsforge-map-reader/mapsforge-map-reader.iml" group="mapsforge-master/mapsforge-map-reader" />
+      <module fileurl="file://$PROJECT_DIR$/../mapsforge-map-writer/mapsforge-map-writer.iml" filepath="$PROJECT_DIR$/../mapsforge-map-writer/mapsforge-map-writer.iml" group="mapsforge-master/mapsforge-map-writer" />
+      <module fileurl="file://$PROJECT_DIR$/../mapsforge-master.iml" filepath="$PROJECT_DIR$/../mapsforge-master.iml" group="mapsforge-master" />
+      <module fileurl="file://$PROJECT_DIR$/../mapsforge-poi/mapsforge-poi.iml" filepath="$PROJECT_DIR$/../mapsforge-poi/mapsforge-poi.iml" group="mapsforge-master/mapsforge-poi" />
+      <module fileurl="file://$PROJECT_DIR$/../mapsforge-poi-android/mapsforge-poi-android.iml" filepath="$PROJECT_DIR$/../mapsforge-poi-android/mapsforge-poi-android.iml" group="mapsforge-master/mapsforge-poi-android" />
+      <module fileurl="file://$PROJECT_DIR$/../mapsforge-poi-awt/mapsforge-poi-awt.iml" filepath="$PROJECT_DIR$/../mapsforge-poi-awt/mapsforge-poi-awt.iml" group="mapsforge-master/mapsforge-poi-awt" />
+      <module fileurl="file://$PROJECT_DIR$/../mapsforge-poi-writer/mapsforge-poi-writer.iml" filepath="$PROJECT_DIR$/../mapsforge-poi-writer/mapsforge-poi-writer.iml" group="mapsforge-master/mapsforge-poi-writer" />
+      <module fileurl="file://$PROJECT_DIR$/mapsforge-samples-android.iml" filepath="$PROJECT_DIR$/mapsforge-samples-android.iml" group="mapsforge-master/mapsforge-samples-android" />
+      <module fileurl="file://$PROJECT_DIR$/../mapsforge-samples-awt/mapsforge-samples-awt.iml" filepath="$PROJECT_DIR$/../mapsforge-samples-awt/mapsforge-samples-awt.iml" group="mapsforge-master/mapsforge-samples-awt" />
+      <module fileurl="file://$PROJECT_DIR$/../mapsforge-themes/mapsforge-themes.iml" filepath="$PROJECT_DIR$/../mapsforge-themes/mapsforge-themes.iml" group="mapsforge-master/mapsforge-themes" />
+      <module fileurl="file://$PROJECT_DIR$/../sqlite-android/sqlite-android.iml" filepath="$PROJECT_DIR$/../sqlite-android/sqlite-android.iml" group="mapsforge-master/sqlite-android" />
+    </modules>
+  </component>
+</project>

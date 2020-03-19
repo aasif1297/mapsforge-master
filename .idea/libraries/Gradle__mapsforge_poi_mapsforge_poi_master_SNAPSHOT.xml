@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: mapsforge-poi.mapsforge-poi-master-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../mapsforge-poi/build/libs/mapsforge-poi-master-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/.." />
+            <option value="$PROJECT_DIR$/../mapsforge-core" />
+            <option value="$PROJECT_DIR$/../mapsforge-map" />
+            <option value="$PROJECT_DIR$/../mapsforge-map-android" />
+            <option value="$PROJECT_DIR$/../mapsforge-map-awt" />
+            <option value="$PROJECT_DIR$/../mapsforge-map-reader" />
+            <option value="$PROJECT_DIR$/../mapsforge-map-writer" />
+            <option value="$PROJECT_DIR$/../mapsforge-poi" />
+            <option value="$PROJECT_DIR$/../mapsforge-poi-android" />
+            <option value="$PROJECT_DIR$/../mapsforge-poi-awt" />
+            <option value="$PROJECT_DIR$/../mapsforge-poi-writer" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/../mapsforge-samples-awt" />
+            <option value="$PROJECT_DIR$/../mapsforge-themes" />
+            <option value="$PROJECT_DIR$/../sqlite-android" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
